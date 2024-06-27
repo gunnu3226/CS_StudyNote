@@ -1,4 +1,4 @@
-# Gunnu's CS_StudyNote
+# Gunnu's Tech Interview Study
 
 ## 자료구조
 
